@@ -20,7 +20,7 @@ body {
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
-  letter-spacing: 1.2em;
+  letter-spacing: 2rem;
   text-shadow: 1px 1px 2px gray;
   border-bottom: solid 3px rgb(115, 115, 114);
 }
